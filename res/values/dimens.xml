@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="title">17sp</dimen>
+    <dimen name="name">15sp</dimen>
+    <dimen name="category">15sp</dimen>
+    <dimen name="year">13sp</dimen>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oriji</string>
+    <string name="oriji_products">Oriji Products Directory</string>
+    <string name="empty">There are no products found for your keywords</string>
+    <string name="products">Products</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search by keywords separated with ,</string>
+
+    <string name="name">Name</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="type">Type</string>
+    <string name="serial_number">Serial #</string>
+    <string name="year">Made In </string>
+
+    <string name="internet_warning">Please turn ON your internet connection!</string>
+
+    <string-array name="keywords">
+        <item>Samsung</item>
+        <item>Samosa</item>
+        <item>Soda Baridi</item>
+        <item>Chips</item>
+        <item>Honda</item>
+        <item>Toyota</item>
+        <item>Nokia</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>iPod</item>
+        <item>Food</item>
+        <item>Phones</item>
+        <item>Utensils</item>
+        <item>Products</item>
+        <item>Latest</item>
+    </string-array>
+</resources>
